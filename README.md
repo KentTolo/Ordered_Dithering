@@ -1,4 +1,4 @@
-#Ordered Dithering in Java#
+*Ordered Dithering in Java*
 
 Overview
 
